@@ -1,3 +1,3 @@
 def call(){
-echo 'node --version'
+sh 'node --version'
 }
