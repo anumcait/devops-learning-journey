@@ -1,3 +1,3 @@
 def nodeInstall(){
-sh 'node --version'
+echo 'node --version'
 }
