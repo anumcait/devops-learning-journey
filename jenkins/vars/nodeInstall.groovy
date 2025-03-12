@@ -1,3 +1,3 @@
-def nodeInstall(){
+def call(){
 echo 'node --version'
 }
